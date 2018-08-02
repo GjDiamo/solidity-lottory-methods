@@ -100,7 +100,7 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="449" />
+    <option name="x" value="26" />
     <option name="y" value="23" />
     <option name="width" value="1223" />
     <option name="height" value="806" />
@@ -163,7 +163,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.bin/www">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
